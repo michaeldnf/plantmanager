@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img alt="PlantManager" title="PlantManager" src=".github/logotype.png" width="100" heigth="100"/>
+    <img alt="PlantManager" title="PlantManager" src=".github/logotype.png" width="200" heigth="200"/>
 </h1>
 
 <p align="center">
-  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <br>
@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Instalaçao e execução do projeto
+## 🚀 Instalação
 
 Clone este repositório para acessar o projeto
 
@@ -47,14 +47,14 @@ $ expo start
 
 App para nos lembrar de sempre regar as nossas plantinhas de casa 🌱
 
-Este projeto foi desenvolido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado pela **[@Rocketseat](https://github.com/Rocketseat)** durante 19 a 20 de abril de 2021.
+Este projeto foi desenvolido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 19 a 20 de abril de 2021.
 
-## Milha Extra
+## 📚 Milha Extra
 Segue algumas coisas feitas e adicionadas por mim: 
   - Agora temos dark mode inserido no App;
   - Na execução do App é feito um request para permitir as notificações no dispositivo.
 
-<img alt="PlantManager" title="PlantManager" src=".github/banner.jpg" width="100" heigth="100"/>
+<img alt="PlantManager" title="PlantManager" src=".github/banner.jpg"/>
 
 ## 🔖 Layout
 
@@ -64,6 +64,6 @@ Para acessar o layout do projeto, segue o link do Figma:
 
 Lembrando que é necessario ter conta no [Figma](http://figma.com/) para acessar o layout.
 
-## 📝 License
+## 📝 Licença
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+Este projeto possui licença MIT. Confira o arquivo [LICENSE](LICENSE.md) para mais detalhes.
